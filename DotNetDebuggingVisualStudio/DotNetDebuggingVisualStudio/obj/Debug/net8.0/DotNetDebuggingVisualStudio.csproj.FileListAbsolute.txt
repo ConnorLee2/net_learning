@@ -1,0 +1,14 @@
+C:\Users\Connor\Downloads\Projects\.net\DotNetDebuggingVisualStudio\DotNetDebuggingVisualStudio\bin\Debug\net8.0\DotNetDebuggingVisualStudio.exe
+C:\Users\Connor\Downloads\Projects\.net\DotNetDebuggingVisualStudio\DotNetDebuggingVisualStudio\bin\Debug\net8.0\DotNetDebuggingVisualStudio.deps.json
+C:\Users\Connor\Downloads\Projects\.net\DotNetDebuggingVisualStudio\DotNetDebuggingVisualStudio\bin\Debug\net8.0\DotNetDebuggingVisualStudio.runtimeconfig.json
+C:\Users\Connor\Downloads\Projects\.net\DotNetDebuggingVisualStudio\DotNetDebuggingVisualStudio\bin\Debug\net8.0\DotNetDebuggingVisualStudio.dll
+C:\Users\Connor\Downloads\Projects\.net\DotNetDebuggingVisualStudio\DotNetDebuggingVisualStudio\bin\Debug\net8.0\DotNetDebuggingVisualStudio.pdb
+C:\Users\Connor\Downloads\Projects\.net\DotNetDebuggingVisualStudio\DotNetDebuggingVisualStudio\obj\Debug\net8.0\DotNetDebuggingVisualStudio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Connor\Downloads\Projects\.net\DotNetDebuggingVisualStudio\DotNetDebuggingVisualStudio\obj\Debug\net8.0\DotNetDebuggingVisualStudio.AssemblyInfoInputs.cache
+C:\Users\Connor\Downloads\Projects\.net\DotNetDebuggingVisualStudio\DotNetDebuggingVisualStudio\obj\Debug\net8.0\DotNetDebuggingVisualStudio.AssemblyInfo.cs
+C:\Users\Connor\Downloads\Projects\.net\DotNetDebuggingVisualStudio\DotNetDebuggingVisualStudio\obj\Debug\net8.0\DotNetDebuggingVisualStudio.csproj.CoreCompileInputs.cache
+C:\Users\Connor\Downloads\Projects\.net\DotNetDebuggingVisualStudio\DotNetDebuggingVisualStudio\obj\Debug\net8.0\DotNetDebuggingVisualStudio.dll
+C:\Users\Connor\Downloads\Projects\.net\DotNetDebuggingVisualStudio\DotNetDebuggingVisualStudio\obj\Debug\net8.0\refint\DotNetDebuggingVisualStudio.dll
+C:\Users\Connor\Downloads\Projects\.net\DotNetDebuggingVisualStudio\DotNetDebuggingVisualStudio\obj\Debug\net8.0\DotNetDebuggingVisualStudio.pdb
+C:\Users\Connor\Downloads\Projects\.net\DotNetDebuggingVisualStudio\DotNetDebuggingVisualStudio\obj\Debug\net8.0\DotNetDebuggingVisualStudio.genruntimeconfig.cache
+C:\Users\Connor\Downloads\Projects\.net\DotNetDebuggingVisualStudio\DotNetDebuggingVisualStudio\obj\Debug\net8.0\ref\DotNetDebuggingVisualStudio.dll

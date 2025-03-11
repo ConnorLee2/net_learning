@@ -1,0 +1,14 @@
+C:\Users\Connor\Downloads\Projects\.net\DotNetDebugging\bin\Release\net9.0\DotNetDebugging.exe
+C:\Users\Connor\Downloads\Projects\.net\DotNetDebugging\bin\Release\net9.0\DotNetDebugging.deps.json
+C:\Users\Connor\Downloads\Projects\.net\DotNetDebugging\bin\Release\net9.0\DotNetDebugging.runtimeconfig.json
+C:\Users\Connor\Downloads\Projects\.net\DotNetDebugging\bin\Release\net9.0\DotNetDebugging.dll
+C:\Users\Connor\Downloads\Projects\.net\DotNetDebugging\bin\Release\net9.0\DotNetDebugging.pdb
+C:\Users\Connor\Downloads\Projects\.net\DotNetDebugging\obj\Release\net9.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Connor\Downloads\Projects\.net\DotNetDebugging\obj\Release\net9.0\DotNetDebugging.AssemblyInfoInputs.cache
+C:\Users\Connor\Downloads\Projects\.net\DotNetDebugging\obj\Release\net9.0\DotNetDebugging.AssemblyInfo.cs
+C:\Users\Connor\Downloads\Projects\.net\DotNetDebugging\obj\Release\net9.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\Users\Connor\Downloads\Projects\.net\DotNetDebugging\obj\Release\net9.0\DotNetDebugging.dll
+C:\Users\Connor\Downloads\Projects\.net\DotNetDebugging\obj\Release\net9.0\refint\DotNetDebugging.dll
+C:\Users\Connor\Downloads\Projects\.net\DotNetDebugging\obj\Release\net9.0\DotNetDebugging.pdb
+C:\Users\Connor\Downloads\Projects\.net\DotNetDebugging\obj\Release\net9.0\DotNetDebugging.genruntimeconfig.cache
+C:\Users\Connor\Downloads\Projects\.net\DotNetDebugging\obj\Release\net9.0\ref\DotNetDebugging.dll

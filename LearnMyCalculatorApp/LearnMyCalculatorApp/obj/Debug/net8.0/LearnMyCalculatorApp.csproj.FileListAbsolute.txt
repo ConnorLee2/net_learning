@@ -1,0 +1,14 @@
+C:\Users\Connor\Downloads\Projects\.net\LearnMyCalculatorApp\LearnMyCalculatorApp\bin\Debug\net8.0\LearnMyCalculatorApp.exe
+C:\Users\Connor\Downloads\Projects\.net\LearnMyCalculatorApp\LearnMyCalculatorApp\bin\Debug\net8.0\LearnMyCalculatorApp.deps.json
+C:\Users\Connor\Downloads\Projects\.net\LearnMyCalculatorApp\LearnMyCalculatorApp\bin\Debug\net8.0\LearnMyCalculatorApp.runtimeconfig.json
+C:\Users\Connor\Downloads\Projects\.net\LearnMyCalculatorApp\LearnMyCalculatorApp\bin\Debug\net8.0\LearnMyCalculatorApp.dll
+C:\Users\Connor\Downloads\Projects\.net\LearnMyCalculatorApp\LearnMyCalculatorApp\bin\Debug\net8.0\LearnMyCalculatorApp.pdb
+C:\Users\Connor\Downloads\Projects\.net\LearnMyCalculatorApp\LearnMyCalculatorApp\obj\Debug\net8.0\LearnMyCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Connor\Downloads\Projects\.net\LearnMyCalculatorApp\LearnMyCalculatorApp\obj\Debug\net8.0\LearnMyCalculatorApp.AssemblyInfoInputs.cache
+C:\Users\Connor\Downloads\Projects\.net\LearnMyCalculatorApp\LearnMyCalculatorApp\obj\Debug\net8.0\LearnMyCalculatorApp.AssemblyInfo.cs
+C:\Users\Connor\Downloads\Projects\.net\LearnMyCalculatorApp\LearnMyCalculatorApp\obj\Debug\net8.0\LearnMyCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Connor\Downloads\Projects\.net\LearnMyCalculatorApp\LearnMyCalculatorApp\obj\Debug\net8.0\LearnMyCalculatorApp.dll
+C:\Users\Connor\Downloads\Projects\.net\LearnMyCalculatorApp\LearnMyCalculatorApp\obj\Debug\net8.0\refint\LearnMyCalculatorApp.dll
+C:\Users\Connor\Downloads\Projects\.net\LearnMyCalculatorApp\LearnMyCalculatorApp\obj\Debug\net8.0\LearnMyCalculatorApp.pdb
+C:\Users\Connor\Downloads\Projects\.net\LearnMyCalculatorApp\LearnMyCalculatorApp\obj\Debug\net8.0\LearnMyCalculatorApp.genruntimeconfig.cache
+C:\Users\Connor\Downloads\Projects\.net\LearnMyCalculatorApp\LearnMyCalculatorApp\obj\Debug\net8.0\ref\LearnMyCalculatorApp.dll
